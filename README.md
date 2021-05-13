@@ -27,7 +27,7 @@ this method can be used to quickly sign the app to use the aforementioned plugin
 
 #### How to
 
-create a method, paste the [code](https://github.com/miyako/4d-utility-sign-app/blob/main/sign_app_for_privacy.4dm) and run. 
+create a method, paste the [code](https://raw.githubusercontent.com/miyako/4d-utility-sign-app/main/sign_app_for_privacy.4dm) and run. 
 
 an alert should pop up in the end.
 
