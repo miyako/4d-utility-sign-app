@@ -13,9 +13,11 @@ to use plugins such as
 
 you need to codesign the app with entitlements and also edit the `Info.plist` file.
 
-you do not need an Apple Developer ID to run locally. 
+you do **not** need an Apple Developer ID to run locally. 
 
-you do not need to notarise the app to run locally.
+you do **not** need to notarise the app to run locally.
+
+v18 R4 has a *SignApp.sh* shell script that supports **Ad Hoc codesign**.
 
 this method can be used to quickly sign the app to use the aforementioned plugins.
 
