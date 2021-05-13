@@ -7,6 +7,9 @@ to use plugins such as
 
 * https://github.com/miyako/4d-plugin-ical-v3
 * https://github.com/miyako/4d-plugin-address-book
+* https://github.com/miyako/4d-plugin-capture-v2
+* https://github.com/miyako/4d-plugin-photos-v2
+* https://github.com/miyako/4d-plugin-apple-file-promises
 
 you need to codesign the app with entitlements and also edit the `Info.plist` file.
 
