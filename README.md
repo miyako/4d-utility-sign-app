@@ -1,5 +1,5 @@
 # 4d-utility-sign-app
-Invoke SignApp.sh from terminal
+Invoke [SignApp.sh](https://raw.githubusercontent.com/miyako/4d-utility-sign-app/main/SignApp.sh) from terminal
 
 #### About
 
