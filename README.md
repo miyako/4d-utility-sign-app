@@ -10,7 +10,8 @@ to use plugins such as
 * https://github.com/miyako/4d-plugin-capture-v2
 * https://github.com/miyako/4d-plugin-photos-v2
 * https://github.com/miyako/4d-plugin-apple-file-promises
-
+* https://github.com/miyako/4d-plugin-notes
+* 
 you need to codesign the app with entitlements and also edit the `Info.plist` file.
 
 you do **not** need an Apple Developer ID to run locally. 
